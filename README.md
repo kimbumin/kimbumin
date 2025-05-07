@@ -15,7 +15,7 @@
 
 ## 💼 Projects
 1. 🔧 캡스톤 디자인 (2023.12 ~ 2024.07 )
-- GitHub:
+- GitHub: https://github.com/kimbumin/Capston2024_1?tab=readme-ov-file
 2. 🎮 포켓몬 모작 게임
 - GitHub:
 
