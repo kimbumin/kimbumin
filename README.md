@@ -27,7 +27,7 @@
 
 ## 💼기타 프로젝트
 🎮 포켓몬 모작 게임
-- GitHub: https://github.com/kimbumin/Pokemon_Mystery_Dungeon/blob/main/README.md
+- GitHub: https://github.com/kimbumin/Pokemon_Mystery_Dungeon
 
 ## 수상
 2024 한성대학교 컴퓨터공학부 캡스톤디자인 우수상
