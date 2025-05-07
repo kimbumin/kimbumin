@@ -1,14 +1,14 @@
 # 📌 Portfolio
 ## 👤 Intro
-이름: 김부민
-생년: 2000.09.10
-학력: 한성대학교 IT공과대학 디지털컨텐츠트랙
-이메일: bumin43@gmail.com
-Velog: https://velog.io/@kimbumin/posts
+- 이름: 김부민
+- 생년: 2000.09.10
+- 학력: 한성대학교 IT공과대학 디지털컨텐츠트랙
+- 이메일: bumin43@gmail.com
+- Velog: https://velog.io/@kimbumin/posts
 ## 🛠 Skills
-Languages: C++, C#
-Game Engines: Unreal Engine, Unity
-Etc.: Git, Visual Studio
+- Languages: C++, C#
+- Game Engines: Unreal Engine, Unity
+- Etc.: Git, Visual Studio
 ## 💼 Projects
 1. 🔧 캡스톤 디자인 (2023.12 ~ 2024.07 )
 GitHub:
