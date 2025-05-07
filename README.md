@@ -1,6 +1,9 @@
-<a href="https://your-portfolio-link.com" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kimbumin%20portfolio&fontSize=40&fontAlign=50&fontColor=ffffff" />
-</a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome&fontSize=60&fontAlign=50&fontColor=ffffff" />
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=80&section=header&text=kimbumin%20profile&fontSize=25&fontAlign=50&fontColor=ffffff" />
+</p>
+
 
 ## 👤 Intro
 - 이름: 김부민
