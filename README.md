@@ -25,7 +25,7 @@
 1. 🔧 캡스톤 디자인 (2023.12 ~ 2024.07 )
 - GitHub: https://github.com/kimbumin/Capston2024_1?tab=readme-ov-file
 2. 🎮 포켓몬 모작 게임
-- GitHub:
+- GitHub: https://github.com/kimbumin/Pokemon_Mystery_Dungeon/blob/main/README.md
 
 ## 💼기타 프로젝트
 (추가할 프로젝트나 실습 링크/설명을 자유롭게 삽입하세요)
