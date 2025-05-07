@@ -4,7 +4,9 @@
 - 생년: 2000.09.10
 - 학력: 한성대학교 IT공과대학 디지털컨텐츠트랙
 - 이메일: bumin43@gmail.com
-- Velog: https://velog.io/@kimbumin/posts
+- <a href="https://velog.io/@kimbumin/posts" target="_blank">
+  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
+</a>
 ## 🛠 Skills
 - Languages: C++, C#
 - Game Engines: Unreal Engine, Unity
