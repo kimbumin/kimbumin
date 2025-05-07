@@ -1,4 +1,7 @@
-# 📌 Portfolio
+<a href="https://your-portfolio-link.com" target="_blank">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=kimbumin%20portfolio&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</a>
+
 ## 👤 Intro
 - 이름: 김부민
 - 생년: 2000.09.10
